@@ -1,0 +1,964 @@
+db.goods.insert([{
+              "productId":"2016115101",
+              "productName":"7.0公斤HPM芯平衡滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、itime智能时间洗、喷淋漂洗",
+              "productPrice":3499.00,
+              "productImg":"1.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"1_0.jpg"
+              },{
+              "productImag":"1_1.jpg"
+              },{
+              "productImag":"1_2.jpg"
+              },{
+              "productImag":"1_3.jpg"
+              },{
+              "productImag":"1_0.jpg"
+              }] 
+              
+            },
+            {
+              "productId":"2016115102",
+              "productName":"8.0公斤HPM芯平衡滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、itime智能时间洗、喷淋漂洗",
+              "productPrice":3699.00,
+              "productImg":"2.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"2_0.jpg"
+              },{
+              "productImag":"2_1.jpg"
+              },{
+              "productImag":"2_2.jpg"
+              },{
+              "productImag":"2_3.jpg"
+              },{
+              "productImag":"2_0.jpg"
+              }]  
+            },
+            {
+              "productId":"2016115103",
+              "productName":"8.0公斤自清洁变频滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、弹力筋内筒、焕发衣物纤维活力、AMT抗菌窗垫、防霉抗菌",
+              "productPrice":3499.00,
+              "productImg":"3.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"3_0.jpg"
+              },{
+              "productImag":"3_1.jpg"
+              },{
+              "productImag":"3_2.jpg"
+              },{
+              "productImag":"3_3.jpg"
+              },{
+              "productImag":"3_0.jpg"
+              }]    
+            },{
+              "productId":"2016115104",
+              "productName":"8.0公斤BLDC变频滚筒洗衣机",
+              "productIntd":"AMT抗菌窗垫、防霉抗菌、弹力筋内筒 焕发衣物纤维活力、BLDC变频 让净更静",
+              "productPrice":3499.00,
+              "productImg":"4.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"4_0.jpg"
+              },{
+              "productImag":"4_1.jpg"
+              },{
+              "productImag":"4_2.jpg"
+              },{
+              "productImag":"4_3.jpg"
+              },{
+              "productImag":"4_0.jpg"
+              }] 
+            },
+            {
+              "productId":"2016115105",
+              "productName":"10.0公斤HPM芯平衡滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、弹力筋内筒、焕发衣物纤维活力、AMT抗菌窗垫、防霉抗菌",
+              "productPrice":3299.00,
+              "productImg":"5.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"5_0.jpg"
+              },{
+              "productImag":"5_1.jpg"
+              },{
+              "productImag":"5_2.jpg"
+              },{
+              "productImag":"5_3.jpg"
+              },{
+              "productImag":"5_0.jpg"
+              }]   
+              },
+            {
+              "productId":"2016115106",
+              "productName":"6.0公斤HPM芯平衡滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、弹力筋内筒 焕发衣物纤维活力、itime智能时间洗",
+              "productPrice":3299.00,
+              "productImg":"6.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+               "Img":[{
+               "productImag":"6_0.jpg"
+              },{
+              "productImag":"6_1.jpg"
+              },{
+              "productImag":"6_2.jpg"
+              },{
+              "productImag":"6_3.jpg"
+              },{
+              "productImag":"6_0.jpg"
+              }] 
+            },{
+              "productId":"2016115107",
+              "productName":"8.0公斤自清洁变频滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、弹力筋内筒 焕发衣物纤维活力、AMT抗菌窗垫 防霉抗菌",
+              "productPrice":3499.00,
+              "productImg":"7.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+               "Img":[{
+               "productImag":"7_0.jpg"
+              },{
+              "productImag":"7_1.jpg"
+              },{
+              "productImag":"7_2.jpg"
+              },{
+              "productImag":"7_3.jpg"
+              },{
+              "productImag":"7_0.jpg"
+              }] 
+            },
+            {
+              "productId":"2016115108",
+              "productName":"8.0公斤自清洁变频滚筒洗衣机",
+              "productIntd":"A.B.T自洁净系统、弹力筋内筒 焕发衣物纤维活力、摇篮柔洗",
+              "productPrice":4799.00,
+              "productImg":"8.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+               "Img":[{
+               "productImag":"8_0.jpg"
+              },{
+              "productImag":"8_1.jpg"
+              },{
+              "productImag":"8_2.jpg"
+              },{
+              "productImag":"8_3.jpg"
+              },{
+              "productImag":"8_0.jpg"
+              }] 
+              },
+            {
+              "productId":"2016115109",
+              "productName":"8.0公斤变频滚筒洗衣机",
+              "productIntd":"BLDC变频 让净更静、AMT抗菌窗垫 防霉抗菌、弹力筋内筒 焕发衣物纤维活力",
+              "productPrice":3399.00,
+              "productImg":"9.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"9_0.jpg"
+              },{
+              "productImag":"9_1.jpg"
+              },{
+              "productImag":"9_2.jpg"
+              },{
+              "productImag":"9_3.jpg"
+              },{
+              "productImag":"9_0.jpg"
+              }]
+               
+            },{
+              "productId":"2016115110",
+              "productName":"9.0公斤自洁净变频滚筒洗衣机",
+              "productIntd":"弹力筋内筒 焕发衣物纤维活力、AMT抗菌窗垫 防霉抗菌、A.B.T自洁净系统",
+              "productPrice":3499.00,
+              "productImg":"10.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"10_0.jpg"
+              },{
+              "productImag":"10_1.jpg"
+              },{
+              "productImag":"10_2.jpg"
+              },{
+              "productImag":"10_3.jpg"
+              },{
+              "productImag":"10_0.jpg"
+              }]
+                
+              },{
+              "productId":"2016115111",
+              "productName":"8.0公斤全自动波轮洗衣机",
+              "productIntd":"一键操作 洗衣不再难倒父母、智能双宽 水电不稳照常洗衣、双级脱水 快速甩干去泡沫",
+              "productPrice":1599.00,
+              "productImg":"11.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"11_0.jpg"
+              },{
+              "productImag":"11_1.jpg"
+              },{
+              "productImag":"11_2.jpg"
+              },{
+              "productImag":"11_3.jpg"
+              },{
+              "productImag":"11_0.jpg"
+              }]
+               
+            },{
+              "productId":"2016115112",
+              "productName":"7.5公斤瀑布水流波轮洗衣机",
+              "productIntd":"漂甩二合一 快速洁净又节水、桶自洁 杜绝衣物二次污染、模糊控制",
+              "productPrice":1899.00,
+              "productImg":"12.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"12_0.jpg"
+              },{
+              "productImag":"12_1.jpg"
+              },{
+              "productImag":"12_2.jpg"
+              },{
+              "productImag":"12_3.jpg"
+              },{
+              "productImag":"12_0.jpg"
+              }]
+              
+            },{
+              "productId":"2016115113",
+              "productName":"7.5公斤全自动波轮洗衣机",
+              "productIntd":"自编程，随心洗 漂甩二合一 快速洁净又节水 风干功能 干燥衣物 不留褶皱",
+              "productPrice":1899.00,
+              "productImg":"13.jpg",
+              "fenlei": "洗衣机",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"13_0.jpg"
+              },{
+              "productImag":"13_1.jpg"
+              },{
+              "productImag":"13_2.jpg"
+              },{
+              "productImag":"13_3.jpg"
+              },{
+              "productImag":"13_0.jpg"
+              }]
+              
+            },{
+              "productId":"2016115114",
+              "productName":"DIB系列1.5匹变频壁挂式空调",
+              "productIntd":"一键PMV、静音技术、内外机自清洁",
+              "productPrice":4199.00,
+              "productImg":"kt.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt_0.jpg"
+              },{
+              "productImag":"kt_1.jpg"
+              },{
+              "productImag":"kt_2.jpg"
+              },{
+              "productImag":"kt_3.jpg"
+              },{
+              "productImag":"kt_0.jpg"
+              }]
+              
+            },{
+              "productId":"2016115115",
+              "productName":"PA系列1匹变频壁挂式空调",
+              "productIntd":"PMV升级、显色除甲醛、17分贝*静音",
+              "productPrice":4599.00,
+              "productImg":"kt1.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt1_0.jpg"
+              },{
+              "productImag":"kt1_1.jpg"
+              },{
+              "productImag":"kt1_2.jpg"
+              },{
+              "productImag":"kt1_3.jpg"
+              },{
+              "productImag":"kt1_0.jpg"
+              }]
+              
+             },{
+              "productId":"2016115116",
+              "productName":"节能风系列1.5匹变频壁挂式空调",
+              "productIntd":"倍速节能、甲醛催化分解技术、PMV升级",
+              "productPrice":4149.00,
+              "productImg":"kt2.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt2_0.jpg"
+             },
+              {
+              "productImag":"kt2_1.jpg"
+              },{
+              "productImag":"kt2_2.jpg"
+              },{
+              "productImag":"kt2_3.jpg"
+              },{
+              "productImag":"kt2_0.jpg"
+              }]     
+             },{
+              "productId":"2016115117",
+              "productName":"劲铂大1.5匹变频壁挂式空调",
+              "productIntd":"ESQ静音技术、Wi-Fi物联网智能远程控制 (睡眠曲线随心调)、停电记忆 （牢牢记住家的温度）",
+              "productPrice":4599.00,
+              "productImg":"kt3.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt3_0.jpg"
+              },{
+              "productImag":"kt3_1.jpg"
+              },{
+              "productImag":"kt3_2.jpg"
+              },{
+              "productImag":"kt3_3.jpg"
+              },{
+              "productImag":"kt3_0.jpg"
+              }]
+             },{
+              "productId":"2016115118",
+              "productName":"TMA系列小1.5匹匹定频壁挂式空调",
+              "productIntd":"23分贝静音、一键自清洁、一键PMV",
+              "productPrice":3399.00,
+              "productImg":"kt4.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt4_0.jpg"
+              },{
+              "productImag":"kt4_1.jpg"
+              },{
+              "productImag":"kt4_2.jpg"
+              },{
+              "productImag":"kt4_3.jpg"
+              },{
+              "productImag":"kt4_0.jpg"
+              }]
+             },{
+              "productId":"2016115119",
+              "productName":"PC系列1匹变频壁挂式空调",
+              "productIntd":"PMV升级、21分贝*静音、停电记忆 、独立除湿",
+              "productPrice":3699.00,
+              "productImg":"kt5.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt5_0.jpg"
+              },{
+              "productImag":"kt5_1.jpg"
+              },{
+              "productImag":"kt5_2.jpg"
+              },{
+              "productImag":"kt5_2.jpg"
+              },{
+              "productImag":"kt5_0.jpg"
+              }]
+             },{
+              "productId":"2016115120",
+              "productName":"BE系列小1匹定频壁挂式空调",
+              "productIntd":"PMV升级、超远距离送风、17分贝*静音",
+              "productPrice":3099.00,
+              "productImg":"kt6.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt6_0.jpg"
+              },{
+              "productImag":"kt6_1.jpg"
+              },{
+              "productImag":"kt6_2.jpg"
+              },{
+              "productImag":"kt6_3.jpg"
+              },{
+              "productImag":"kt6_0.jpg"
+              }]
+             },{
+              "productId":"2016115121",
+              "productName":"ND系列小1.5匹定频壁挂式空调",
+              "productIntd":"ESQ静音技术、强力模式、智能一键通（省心舒适）",
+              "productPrice":4399.00,
+              "productImg":"kt7.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt7_0.jpg"
+              },{
+              "productImag":"kt7_1.jpg"
+              },{
+              "productImag":"kt7_2.jpg"
+              },{
+              "productImag":"kt7_3.jpg"
+              },{
+              "productImag":"kt7_0.jpg"
+              }]
+             },{
+              "productId":"2016115122",
+              "productName":"Z系列小1.5匹定频壁挂式空调",
+              "productIntd":"智能PMV人体舒适控制系统、强力模式、ESQ静音技术",
+              "productPrice":4299.00,
+              "productImg":"kt8.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt8_0.jpg"
+              },{
+              "productImag":"kt8_1.jpg"
+              },{
+              "productImag":"kt8_2.jpg"
+              },{
+              "productImag":"kt8_3.jpg"
+              },{
+              "productImag":"kt8_0.jpg"
+              }]
+             },{
+              "productId":"2016115123",
+              "productName":"E系列大1匹无氟变频壁挂式空调",
+              "productIntd":"除醛空气净化新技术、ESQ静音技术、品质压缩机",
+              "productPrice":3699.00,
+              "productImg":"kt9.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt9_0.jpg"
+              },{
+              "productImag":"kt9_1.jpg"
+              },{
+              "productImag":"kt9_2.jpg"
+              },{
+              "productImag":"kt9_3.jpg"
+              },{
+              "productImag":"kt9_0.jpg"
+              }]
+             },{
+              "productId":"2016115124",
+              "productName":"PC系列1匹变频壁挂式空调",
+              "productIntd":"PMV升级、21分贝*静音、独立除湿",
+              "productPrice":4599.00,
+              "productImg":"kt10.jpg",
+              "fenlei": "空调",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"kt10_0.jpg"
+              },{
+              "productImag":"kt10_1.jpg"
+              },{
+              "productImag":"kt10_2.jpg"
+              },{
+              "productImag":"kt10_3.jpg"
+              },{
+              "productImag":"kt10_0.jpg"
+              }]
+              },{
+              "productId":"2016115125",
+              "productName":"452升风冷定频对开门冰箱",
+              "productIntd":"风冷巡航 无霜呵护、纤薄机身 定制专属精致生活",
+              "productPrice":3099.00,
+              "productImg":"bx.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx_0.jpg"
+              },{
+              "productImag":"bx_1.jpg"
+              },{
+              "productImag":"bx_2.jpg"
+              },{
+              "productImag":"bx_3.jpg"
+              },{
+              "productImag":"bx_0.jpg"
+              }]
+              },{
+              "productId":"2016115126",
+              "productName":"402升风冷定频多门冰箱",
+              "productIntd":"风冷巡航 无霜呵护、T.ABT智能杀菌 精控多温区",
+              "productPrice":3299.00,
+              "productImg":"bx1.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx1_0.jpg"
+              },{
+              "productImag":"bx1_1.jpg"
+              },{
+              "productImag":"bx1_2.jpg"
+              },{
+              "productImag":"bx1_3.jpg"
+              },{
+              "productImag":"bx1_0.jpg"
+              }]
+              },{
+              "productId":"2016115127",
+              "productName":"312升风冷定频多门冰箱",
+              "productIntd":"多温多循环 分区保鲜不串味、T·ABT纯天然杀菌 鲜享健康美味 风冷巡航 无霜呵护",
+              "productPrice":3099.00,
+              "productImg":"bx2.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx2_0.jpg"
+              },{
+              "productImag":"bx2_1.jpg"
+              },{
+              "productImag":"bx2_2.jpg"
+              },{
+              "productImag":"bx2_3.jpg"
+              },{
+              "productImag":"bx2_0.jpg"
+              }]
+              },{
+              "productId":"2016115128",
+              "productName":"521升风冷定频对开门冰箱",
+              "productIntd":"655mm薄致设计 大容量 隐藏式把手设计",
+              "productPrice":4299.00,
+              "productImg":"bx3.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx3_0.jpg"
+              },{
+              "productImag":"bx3_1.jpg"
+              },{
+              "productImag":"bx3_2.jpg"
+              },{
+              "productImag":"bx3_3.jpg"
+              },{
+              "productImag":"bx3_0.jpg"
+              }]
+              },{
+              "productId":"2016115129",
+              "productName":"321升风冷定频两门冰箱",
+              "productIntd":"风冷全无霜、巡航立体风 MYZONE多功能区",
+              "productPrice":3899.00,
+              "productImg":"bx4.png",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx4_0.png"
+              },{
+              "productImag":"bx4_1.png"
+              },{
+              "productImag":"bx4_2.png"
+              },{
+              "productImag":"bx4_3.png"
+              },{
+              "productImag":"bx4_0.png"
+              }]
+              },{
+              "productId":"2016115130",
+              "productName":"302升风冷变频多门冰箱",
+              "productIntd":"抽屉设计 食品存取更便捷、变频压机 节能静音 立体风循环制冷 无霜保湿",
+              "productPrice":3899.00,
+              "productImg":"bx5.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx5_0.jpg"
+              },{
+              "productImag":"bx5_1.jpg"
+              },{
+              "productImag":"bx5_2.jpg"
+              },{
+              "productImag":"bx5_3.jpg"
+              },{
+              "productImag":"bx5_0.jpg"
+              }]
+              },{
+              "productId":"2016115131",
+              "productName":"328升风冷变频两门冰箱",
+              "productIntd":"风冷巡航 无霜呵护、巡航双变频 节能更静音",
+              "productPrice":3399.00,
+              "productImg":"bx6.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx6_0.jpg"
+              },{
+              "productImag":"bx6_1.jpg"
+              },{
+              "productImag":"bx6_2.jpg"
+              },{
+              "productImag":"bx6_3.jpg"
+              },{
+              "productImag":"bx6_0.jpg"
+              }]
+              },{
+              "productId":"2016115132",
+              "productName":"251升风冷定频两门冰箱",
+              "productIntd":"风冷无霜 微风道无霜科技",
+              "productPrice":2899.00,
+              "productImg":"bx7.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx7_0.jpg"
+              },{
+              "productImag":"bx7_1.jpg"
+              },{
+              "productImag":"bx7_2.jpg"
+              },{
+              "productImag":"bx7_3.jpg"
+              },{
+              "productImag":"bx7_0.jpg"
+              }]
+              },{
+              "productId":"2016115133",
+              "productName":"475升风冷变频十字对开门冰箱",
+              "productIntd":"时尚T型 有容乃大、风冷巡航 无霜呵护、TABT净味杀菌 还原自然新鲜",
+              "productPrice":6399.00,
+              "productImg":"bx8.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx8_0.jpg"
+              },{
+              "productImag":"bx8_1.jpg"
+              },{
+              "productImag":"bx8_2.jpg"
+              },{
+              "productImag":"bx8_3.jpg"
+              },{
+              "productImag":"bx8_0.jpg"
+              }]
+              },{
+              "productId":"2016115134",
+              "productName":"160升直冷定频两门冰箱",
+              "productIntd":"自动低温补偿功能、时尚钣金外观",
+              "productPrice":1199.00,
+              "productImg":"bx9.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx9_0.jpg"
+              },{
+              "productImag":"bx9_1.jpg"
+              },{
+              "productImag":"bx9_2.jpg"
+              },{
+              "productImag":"bx9_3.jpg"
+              },{
+              "productImag":"bx9_0.jpg"
+              }]
+              },{
+              "productId":"2016115135",
+              "productName":"201升直冷定频三门冰箱",
+              "productIntd":"创新007软冷冻技术、三温区独立保鲜",
+              "productPrice":1499.00,
+              "productImg":"bx10.jpg",
+              "fenlei": "冰箱",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"bx10_0.jpg"
+              },{
+              "productImag":"bx10_1.jpg"
+              },{
+              "productImag":"bx10_2.jpg"
+              },{
+              "productImag":"bx10_3.jpg"
+              },{
+              "productImag":"bx10_0.jpg"
+              }]
+              },{
+              "productId":"2016115136",
+              "productName":"60升准时预约横式电热水器",
+              "productIntd":"准时预约 中温保温 专利防电墙",
+              "productPrice":1599.00,
+              "productImg":"rsq.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq_0.jpg"
+              },{
+              "productImag":"rsq_1.jpg"
+              },{
+              "productImag":"rsq_2.jpg"
+              },{
+              "productImag":"rsq_3.jpg"
+              },{
+              "productImag":"rsq_0.jpg"
+              }]
+              },{
+              "productId":"2016115137",
+              "productName":"60升健康抑菌横式电热水器",
+              "productIntd":"准时预约 80℃健康抑菌呵护备至 动态夜电",
+              "productPrice":1999.00,
+              "productImg":"rsq1.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq1_0.jpg"
+              },{
+              "productImag":"rsq1_1.jpg"
+              },{
+              "productImag":"rsq1_2.jpg"
+              },{
+              "productImag":"rsq1_3.jpg"
+              },{
+              "productImag":"rsq1_0.jpg"
+              }]
+              },{
+              "productId":"2016115138",
+              "productName":"12升恒温燃气热水器",
+              "productIntd":"蓝火苗专利安全技术 ±0.5℃恒温技术 熄火保护",
+              "productPrice":2099.00,
+              "productImg":"rsq2.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq2_0.jpg"
+              },{
+              "productImag":"rsq2_1.jpg"
+              },{
+              "productImag":"rsq2_2.jpg"
+              },{
+              "productImag":"rsq2_3.jpg"
+              },{
+              "productImag":"rsq2_0.jpg"
+              }]
+              },{
+              "productId":"2016115139",
+              "productName":"13升富氧蓝焰燃气热水器",
+              "productIntd":"56重安防 变频恒温 专利富氧蓝焰",
+              "productPrice":1199.00,
+              "productImg":"rsq3.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq3_0.jpg"
+              },{
+              "productImag":"rsq3_1.jpg"
+              },{
+              "productImag":"rsq3_2.jpg"
+              },{
+              "productImag":"rsq3_3.jpg"
+              },{
+              "productImag":"rsq3_0.jpg"
+              }]
+              },{
+              "productId":"2016115140",
+              "productName":"13升水气双调燃气热水器",
+              "productIntd":"水气双调 CO安防系统 随温感",
+              "productPrice":2999.00,
+              "productImg":"rsq4.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq4_0.jpg"
+              },{
+              "productImag":"rsq4_1.jpg"
+              },{
+              "productImag":"rsq4_2.jpg"
+              },{
+              "productImag":"rsq4_3.jpg"
+              },{
+              "productImag":"rsq4_0.jpg"
+              }]
+              },{
+              "productId":"2016115141",
+              "productName":"60升变频加热横式电热水器",
+              "productIntd":"变频加热 高温杀菌 升级专利防电墙技术",
+              "productPrice":1599.00,
+              "productImg":"rsq5.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq5_0.jpg"
+              },{
+              "productImag":"rsq5_1.jpg"
+              },{
+              "productImag":"rsq5_2.jpg"
+              },{
+              "productImag":"rsq5_3.jpg"
+              },{
+              "productImag":"rsq5_0.jpg"
+              }]
+              },{
+              "productId":"2016115142",
+              "productName":"60升三档功率可调横式电热水器",
+              "productIntd":"三档功率可调 预约洗浴 专利防电墙",
+              "productPrice":1399.00,
+              "productImg":"rsq6.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq6_0.jpg"
+              },{
+              "productImag":"rsq6_1.jpg"
+              },{
+              "productImag":"rsq6_2.jpg"
+              },{
+              "productImag":"rsq6_3.jpg"
+              },{
+              "productImag":"rsq6_0.jpg"
+              }]
+              },{
+              "productId":"2016115143",
+              "productName":"80升安全预警横式电热水器",
+              "productIntd":"优质金钢三层胆经久耐用 专利安全预警守护系统 专利防电墙安全防护系统",
+              "productPrice":1299.00,
+              "productImg":"rsq7.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq7_0.jpg"
+              },{
+              "productImag":"rsq7_1.jpg"
+              },{
+              "productImag":"rsq7_2.jpg"
+              },{
+              "productImag":"rsq7_3.jpg"
+              },{
+              "productImag":"rsq7_0.jpg"
+              }]
+              },{
+              "productId":"2016115144",
+              "productName":"80升机控遥控横式电热水器",
+              "productIntd":"三档功率可调 机控遥控 延时预约",
+              "productPrice":1399.00,
+              "productImg":"rsq8.jpg",
+              "fenlei": "热水器",
+              "productNum":1,
+              "checked":'1',
+              "Img":[{
+              "productImag":"rsq8_0.jpg"
+              },{
+              "productImag":"rsq8_1.jpg"
+              },{
+              "productImag":"rsq8_2.jpg"
+              },{
+              "productImag":"rsq8_3.jpg"
+              },{
+              "productImag":"rsq8_0.jpg"
+              }]
+              }]);
+db.goods.remove({});
+db.goods.find({});
+db.users.insert([
+ {
+ "userId":'2016115117',
+ "userName":'110',
+ "userPwd":'pswddd',
+ "cartList":[
+
+  ],
+  "addressList":[{
+  "addressId": "1234560",
+  "userName": "李毅",
+  "streetName":"广州市天河区科韵路1号",
+  "postCode": 110,
+  "tel": 77582580,
+  "isDefault": true},
+  {
+  "addressId": "1234561",
+  "userName": "王二",
+  "streetName":"广州市天河区科韵路2号",
+  "postCode": 111,
+  "tel": 77582581,
+  "isDefault": false},
+  {
+  "addressId": "1234562",
+  "userName": "赵三",
+  "streetName":"广州市天河区科韵路3号",
+  "postCode": 112,
+  "tel": 77582582,
+  "isDefault": false},
+  {
+  "addressId": "1234563",
+  "userName": "放肆",
+  "streetName":"广州市天河区科韵路4号",
+  "postCode": 113,
+  "tel": 77582583,
+  "isDefault": false},
+  {
+  "addressId": "1234564",
+  "userName": "牛武",
+  "streetName":"广州市天河区科韵路5号",
+  "postCode": 114,
+  "tel": 77582584,
+  "isDefault": false}],
+  },
+  {
+  "userId":'2016115118',
+  "userName":'111',
+  "userPwd":'pswddd',
+ "cartList":[
+  
+  ],
+  "addressList":'Array1',
+  },
+  {
+  "userId":'2016115119',
+  "userName":'admin',
+  "userPwd":'adminn',
+ "cartList":[
+  
+  ],
+  "addressList":'Array1',
+  }
+          ]);
+db.users.remove({});
+db.users.find({});
+    

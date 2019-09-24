@@ -1,0 +1,163 @@
+@font-face {
+    /*声明字体  引用字体*/
+    font-family: "icomoon";
+    /*我们自己起名字可以*/
+    src: url('../fonts/icomoon.eot?7kkyc2');
+    src: url('../fonts/icomoon.eot?7kkyc2#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?7kkyc2') format('truetype'), url('../fonts/icomoon.woff?7kkyc2') format('woff'), url('../fonts/icomoon.svg?7kkyc2#icomoon') format('svg');
+    font-style: normal;
+    /*倾斜字体正常*/
+}
+
+i {
+    font-family: icomoon;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.main {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #f4f7f7;
+}
+
+.main .main_header {
+    width: 100%;
+    height: 160px;
+}
+
+.main .main_header .main_header_left {
+    float: left;
+    height: 160px;
+    width: 17%;
+    background-color: #2e4250;
+}
+
+.main .main_header .main_header_left h1 {
+    color: white;
+}
+
+.main .main_header .main_header_right {
+    width: 83%;
+    height: 80px;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+.main .main_header .main_header_right button {
+    float: right;
+    margin-top: 30px;
+}
+
+.main .main_context {
+    margin-top: -20px;
+    width: 100%;
+    height: 400px;
+    background-color: #FFFFFF;
+    position: relative;
+}
+
+.main .main_context .context_ul {
+    width: 17%;
+    height: 100%;
+    list-style: none;
+    background: #2e4250;
+    position: relative;
+}
+
+.main .main_context .context_ul li {
+    text-align: center;
+    margin-left: -40px;
+}
+
+.main .main_context .context_ul li a {
+    color: #a3a2ab;
+    text-decoration: none;
+}
+
+.main .main_context .context_ul li a:hover {
+    color: #c0c0c0;
+}
+
+.main .main_context .context_ul li:hover {
+    background-color: #2e3542;
+}
+
+.main .main_context .context_ul .box_ul li:hover {
+    background-color: transparent;
+}
+
+.main .main_context .context_ul li {
+    height: 75px;
+    line-height: 75px;
+}
+
+.main .main_context .context_ul li .li_box {
+    width: 1200px;
+    height: 400px;
+    /* max-height: auto; */
+    background-color: white;
+    position: absolute;
+    left: 230px;
+    top: 0px;
+    display: none;
+    overflow-y: auto
+}
+
+.main .main_context .context_ul li.active .li_box {
+    display: block;
+}
+
+.main .main_context .context_ul li.active .li_box .ul_1 li {
+    margin-left: 40px;
+}
+
+.main .main_context .context_ul li .li_box .ul_2 li {
+    margin-left: 30px
+}
+
+.main .main_context .context_ul li .li_box .ul_3 li+li {
+    margin-left: 0px
+}
+
+.main .main_context .context_ul li:hover .li_box {
+    display: block;
+}
+
+.main .main_context .context_ul li .li_box .box_ul {
+    list-style: none;
+    margin-left: 5px
+}
+
+.main .main_context .context_ul li .li_box .box_ul li {
+    float: left;
+    width: 17%;
+    padding-left: 15px;
+}
+
+.main .main_context .context_ul li .li_box .box_ul li img {
+    display: block;
+    width: 100%;
+    height: 80%;
+}
+
+.main .main_context .context_ul .xg li {
+    width: 100%;
+    height: 50px
+}
+
+.main .main_context .context_ul .xg li input {
+    height: 100%
+}
+
+.main .main_context .context_ul .xg li:hover {
+    background-color: transparent;
+}
+
+.md-modal-inner .xg {
+    margin-left: 75px
+}

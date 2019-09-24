@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+}
+
+body {
+    overflow-x: hidden
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    border: 0;
+    margin: 0;
+}
+
+img {
+    border: none;
+}
+
+.container {
+    margin: auto;
+    position: relative;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/*头部和导航*/
+
+.hellow {
+    margin: 0px;
+    padding: 0;
+    font-family: "微软雅黑";
+    outline: none;
+}
+
+
+/*头部*/
+
+.topbox {
+    width: 100%;
+    height: 110px;
+    background-image: url("../imag/top-bg.jpg");
+}
+
+.topbox> .container {
+    height: 110px;
+}
+
+.logoImg {
+    margin-left: -20px;
+    margin-top: 8px;
+}
+
+.topSearch {
+    width: 368px;
+    height: 60px;
+    position: absolute;
+    top: 30px;
+    right: 0;
+}
+
+.topSearch_top {
+    width: 365px;
+    height: 30px;
+    border: 2px solid #a62721;
+    border-radius: 15px;
+    position: relative;
+}
+
+.search {
+    width: 260px;
+    height: 20px;
+    border: none;
+    background: none;
+    padding-left: 20px;
+}
+
+.btnclick {
+    position: absolute;
+    right: 0;
+    width: 60px;
+    height: 28px;
+    background-color: #a62721;
+    border: none;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.topSearch_bottom span {
+    font-size: 20%;
+    color: #6e6e6e;
+}
+
+.topSearch_bottom span+span {
+    margin-left: 5px;
+}
+
+
+/*头部*/
+
+
+/*导航*/
+
+.navbox {
+    width: 100%;
+    height: 50px;
+    background-color: #a62721;
+}
+
+.navbox>.container {
+    height: 50px;
+}
+
+.navbox>.container .row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.navbox>.container .row div {
+    width: 100px;
+    height: 50px;
+    /* text-align: center; */
+    line-height: 50px;
+    float: left;
+    background-image: url(../imag/nav-bg1.gif);
+    background-repeat: no-repeat;
+    background-position: -240px 0px;
+    transition: all 1s;
+    margin: 0;
+    padding: 0;
+}
+
+.navbox>.container .row div>a {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    background-image: url(../imag/nav-bg1.gif);
+    background-repeat: no-repeat;
+    background-position: -240px 0px;
+    transition: all 1s;
+    margin: 0;
+}
+
+.navbox>.container .row div a:hover {
+    text-decoration: none;
+    color: #c0c0c0;
+}
+
+.navbox>.container .row div>a:hover {
+    background-color: rgb(3, 99, 198);
+    transition: left 0.5s;
+}
+
+
+/*导航*/
+
+
+/*头部和导航*/

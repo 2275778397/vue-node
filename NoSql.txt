@@ -1,0 +1,214 @@
+db.goods.insert([
+{
+              "productId":"2016115101",
+              "productName":"小钢炮蓝牙音箱",
+              "productPrice":129.00,
+              "productImg":"1.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+              "productId":"2016115102",
+              "productName":"头戴式耳机-3",
+              "productPrice":80.00,
+              "productImg":"2.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+              "productId":"2016115103",
+              "productName":"红色头戴式耳机",
+              "productPrice":109,
+              "productImg":"3.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+              "productId":"2016115104",
+              "productName":"黑色头戴式耳机",
+              "productPrice":109,
+              "productImg":"4.jpg",
+              "productNum":1,
+              "checked":'1'
+              },
+              {
+              "productId":"2016115105",
+              "productName":"万能充电宝",
+              "productPrice":199.00,
+              "productImg":"5.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115106",
+              "productName":"智能插排",
+              "productPrice":59.00,
+              "productImg":"6.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115107",
+              "productName":"小米净水器",
+              "productPrice":1999.00,
+              "productImg":"8.jpg",
+              "productNum":1,
+              "checked":'1'
+              },{
+              "productId":"2016115108",
+              "productName":"IH 电饭煲",
+              "productPrice":999.00,
+              "productImg":"9.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115109",
+              "productName":"小米笔记本",
+              "productPrice":3549.00,
+              "productImg":"10.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115110",
+              "productName":"红色头戴式耳机",
+              "productPrice":109,
+              "productImg":"11.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115111",
+              "productName":"Ear1100",
+              "productPrice":1100.00,
+              "productImg":"12.jpg",
+              "productNum":1,
+              "checked":'1'
+              },{
+              "productId":"2016115112",
+              "productName":"Ear2000",
+              "productPrice":2000.00,
+              "productImg":"13.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115113",
+              "productName":"Eae1600",
+              "productPrice":1600.00,
+              "productImg":"14.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115114",
+              "productName":"Ear1200",
+              "productPrice":1200.00,
+              "productImg":"15.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115115",
+              "productName":"Ear700",
+              "productPrice":700.00,
+              "productImg":"16.jpg",
+              "productNum":1,
+              "checked":'1'
+            },
+            {
+            "productId":"2016115116",
+              "productName":"平衡车",
+              "productPrice":109,
+              "productImg":"pingheng.jpg",
+              "productNum":1,
+              "checked":'1'
+              },
+              {
+              "productId":"2016115117",
+              "productName":"自拍杆",
+              "productPrice":39.00,
+              "productImg":"zipai.jpg",
+              "productNum":1,
+              "checked":'1'
+              },
+              {
+              "productId":"2016115118",
+              "productName":"小米6",
+              "productPrice":2499.00,
+              "productImg":"mi6.jpg",
+              "productNum":1,
+              "checked":'1'
+              },
+              {
+              "productId":"2016115119",
+              "productName":"智能摄像机",
+              "productPrice":389.00,
+              "productImg":"photo.jpg",
+              "productNum":1,
+              "checked":'1'      
+            }]);
+db.goods.remove({});
+db.goods.find({});
+
+
+ db.users.insert([
+ {
+ "userId":'2016115117',
+ "userName":'xiaoming',
+ "userPwd":'pswd',
+ "orderList":'Array',
+ "cartList":[
+
+  ],
+  "addressList":[{
+  "addressId": "1234560",
+  "userName": "李毅",
+  "streetName":"广州市天河区科韵路1号",
+  "postCode": 110,
+  "tel": 77582580,
+  "isDefault": true},
+  {
+  "addressId": "1234561",
+  "userName": "王二",
+  "streetName":"广州市天河区科韵路2号",
+  "postCode": 111,
+  "tel": 77582581,
+  "isDefault": false},
+  {
+  "addressId": "1234562",
+  "userName": "赵三",
+  "streetName":"广州市天河区科韵路3号",
+  "postCode": 112,
+  "tel": 77582582,
+  "isDefault": false},
+  {
+  "addressId": "1234563",
+  "userName": "放肆",
+  "streetName":"广州市天河区科韵路4号",
+  "postCode": 113,
+  "tel": 77582583,
+  "isDefault": false},
+  {
+  "addressId": "1234564",
+  "userName": "牛武",
+  "streetName":"广州市天河区科韵路4号",
+  "postCode": 114,
+  "tel": 77582584,
+  "isDefault": false}],
+  },
+  {
+  "userId":'2016115118',
+ "userName":'xiaomin',
+ "userPwd":'pswd1',
+ "orderList":'Array1',
+ "cartList":[
+  
+  ],
+  "addressList":'Array1',
+  }
+          ]);
+db.users.remove({});
+db.users.find({});
+    
